@@ -1,0 +1,5 @@
+Simple script to convert eps image files to png.  Lets you control the
+width in pixels of the resulting image.
+
+Requires GNU Ghostscript (http://www.gnu.org/software/ghostscript/) and
+Imagemagick (http://www.imagemagick.org/script/index.php).
